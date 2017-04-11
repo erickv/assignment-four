@@ -22,6 +22,6 @@ $(".read-less").click(function(){
 });
 
 $(".learn-more").click(function(){
-    $(".hide").hide();
+    $(".learn-more").hide();
      $("#learn-more-text").slideDown();
 });
